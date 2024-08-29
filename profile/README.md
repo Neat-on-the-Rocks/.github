@@ -38,7 +38,3 @@ This is our orginization page. Though our main code is private, we have made the
 - **Frontend**: React, TypeScript, Axios, Styled Components, React-Router, React-Toastify, React-Native,  Zxing
 - **Backend**: Node, Express, MongoDB, PostgreSQL Mongoose, JWT, Bcrypt, Cloudinary, Nodemon, Dotenv, Cors, Java, Javascript
 - **DevOps**: GitHub Actions, Docker, Docker-Compose, Nginx, PM2, ECS, AWS, EC2, RDS, S3, Route 53, CloudFront, Vercel
-
-## Future Implementations with Investments
-
-- **ABBYY**: Implement [ABBYY](https://www.abbyy.com/) OCR to scan the label of a bottle and retrieve its information from our database.
