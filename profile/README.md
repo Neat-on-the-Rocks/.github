@@ -27,11 +27,11 @@ This is our orginization page. Though our main code is private, we have made the
 
 ## Cloud Architecture
 
-![Neat on the Rocks Cloud Architecture](../assets/notr-cloud.svg)
+![Neat on the Rocks Cloud Architecture](./assets/notr-cloud.svg)
 
 ## Entity Relationship Diagram
 
-![Neat on the Rocks ERD](../assets/notr-erd.svg)
+![Neat on the Rocks ERD](./assets/notr-erd.svg)
 
 ## Technologies Used
 
